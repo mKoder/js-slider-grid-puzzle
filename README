@@ -1,0 +1,10 @@
+You have a html page container a slider.
+
+Your challenge is:
+
+1) When the slider is moved, draw a grid the size of the slider value. If the slider is set the 3 the grid should be 3x3
+2) The grid should be coloured in as a gradient from top left red to bottom right white. So the top left cell should
+be rgb(255,0,0) and the bottom right rbg(255,255,255) with all the cells in between given a solid colour.
+
+The grid container can any size you like.
+You have been provided with the basic html file and empty js file, with jquery included / available globally
